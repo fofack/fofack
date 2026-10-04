@@ -77,6 +77,16 @@ Beyond frameworks and programming languages, I'm particularly interested in the 
 
 ## 🚀 Featured Engineering Projects
 
+## 🤝 Open Source & Collaborative Contributions
+
+### Frelated — LIC Software Foundation
+
+I'm currently contributing to **Frelated**, a public project maintained by the **LIC Software Foundation**.
+
+Working on a shared codebase allows me to apply software engineering practices in a collaborative environment, including understanding an existing architecture, contributing code, reviewing changes and working within established project conventions.
+
+➡️ [View the project](https://github.com/LIC-Software-Foundation/frelated)
+
 ### 🏗️ Clean Architecture Java Example
 
 A practical implementation of **Clean Architecture with Java and Spring Boot**, demonstrating separation of concerns, dependency inversion, use cases, domain boundaries and adapters.
