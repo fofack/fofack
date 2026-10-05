@@ -8,23 +8,23 @@ I work across the entire software development lifecycle — from **backend, fron
 
 ---
 
-## 🧭 Engineering Focus
+## Engineering Focus
 
-- ☕ Java & Spring Boot
-- ⚛️ React & TypeScript
-- 🅰️ Angular
-- 🐘 PHP & Laravel
-- 📱 Flutter & Dart
-- 🏗️ Software Architecture
-- 🧪 Automated Testing & BDD
-- 🗄️ SQL & NoSQL Databases
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes
-- 🔄 CI/CD & DevOps
+- Java & Spring Boot
+- React & TypeScript
+- Angular
+- PHP & Laravel
+- Flutter & Dart
+- Software Architecture
+- Automated Testing & BDD
+- SQL & NoSQL Databases
+- Docker & Containerization
+- Kubernetes
+- CI/CD & DevOps
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -56,7 +56,7 @@ I work across the entire software development lifecycle — from **backend, fron
 
 ---
 
-## 🏗️ Software Engineering
+## Software Engineering
 
 Beyond frameworks and programming languages, I'm particularly interested in the principles and practices used to build maintainable software:
 
@@ -75,9 +75,9 @@ Beyond frameworks and programming languages, I'm particularly interested in the 
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
-## 🤝 Open Source & Collaborative Contributions
+## Open Source & Collaborative Contributions
 
 ### Frelated — LIC Software Foundation
 
@@ -85,17 +85,17 @@ I'm currently contributing to **Frelated**, a public project maintained by the *
 
 Working on a shared codebase allows me to apply software engineering practices in a collaborative environment, including understanding an existing architecture, contributing code, reviewing changes and working within established project conventions.
 
-➡️ [View the project](https://github.com/LIC-Software-Foundation/frelated)
+ [View the project](https://github.com/LIC-Software-Foundation/frelated)
 
-### 🏗️ Clean Architecture Java Example
+### Clean Architecture Java Example
 
 A practical implementation of **Clean Architecture with Java and Spring Boot**, demonstrating separation of concerns, dependency inversion, use cases, domain boundaries and adapters.
 
-➡️ [Explore the project](https://github.com/fofack/clean-architecture-java-example)
+ [Explore the project](https://github.com/fofack/clean-architecture-java-example)
 
 ---
 
-### ☕ Java Mastery Lab
+### Java Mastery Lab
 
 A practical repository dedicated to exploring Java concepts through examples, tests and real-world use cases.
 
@@ -103,11 +103,11 @@ Topics will include:
 
 `Collections` • `Generics` • `Stream API` • `Functional Programming` • `Concurrency` • `CompletableFuture` • `Virtual Threads` • `JVM`
 
-🚧 Currently building.
+ Currently building.
 
 ---
 
-### 💼 BusinessFlow
+### BusinessFlow
 
 An enterprise-oriented full-stack platform designed to demonstrate how modern backend, frontend, database, testing and DevOps practices can work together in a real-world application.
 
@@ -115,14 +115,13 @@ Planned stack:
 
 `Spring Boot` • `React` • `GraphQL` • `PostgreSQL` • `Redis` • `Docker` • `CI/CD`
 
-🚧 Coming soon.
+ Coming soon.
 
 ---
 
-## 🔬 What I'm Currently Working On
+## What I'm Currently Working On
 
-I'm currently building a collection of public engineering projects designed to demonstrate practical knowledge in:
-
+I'm currently building a collection of public engineering projects designed to demonstrate practical knowledge in
 - Advanced Java
 - Spring Boot
 - Software Architecture
@@ -138,7 +137,7 @@ Each repository focuses on **practical examples, engineering decisions, automate
 
 ---
 
-## 📚 Current Learning & Exploration
+## Current Learning & Exploration
 
 I'm continuously exploring topics related to:
 
@@ -154,7 +153,7 @@ I'm continuously exploring topics related to:
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm interested in **software engineering, architecture, full-stack development, mobile development, software quality, DevOps and open-source collaboration**.
 
